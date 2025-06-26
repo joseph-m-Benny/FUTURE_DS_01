@@ -1,0 +1,40 @@
+# 📊 Student Feedback Analysis – Power BI + Python
+
+This project analyzes student satisfaction survey data using both Power BI and a Python-based Jupyter Notebook.
+
+## 🔍 Features
+
+### 📘 Jupyter Notebook (`future_ds_3_.ipynb`)
+- Extracts numeric ratings from feedback columns
+- Analyzes:
+  - Top 5 / Bottom 5 rated courses
+  - Most / least satisfying questions
+  - Participation rates
+  - Department-wise satisfaction
+  - Heatmap of rating distribution
+  - Validation of calculated vs provided averages
+
+### 📄 Power BI Report (`future_ds_02.pdf.pdf`)
+- ROI, CTR, CPC for ads
+- Conversion trends by ad, age, and gender
+- Optimization suggestions for future ad campaigns
+
+## 🛠 Tools Used
+- Python (Pandas, Seaborn, Matplotlib)
+- Jupyter Notebook
+- Power BI Desktop
+
+## ✅ How to Run
+1. Open `future_ds_3_.ipynb` in Jupyter/Colab
+2. Upload your CSV data file (e.g., `Student_Satisfaction_Survey.csv`)
+3. Run all cells in sequence to get insights
+
+## 📈 Insights Example
+- Top-rated course: `TY BMS`
+- Least satisfying question: *“How fair was the evaluation?”*
+- Highest participation: `FY B.VOC FOOD TECH`
+- Best ROI ad group: `18–24 Male`
+
+---
+
+📩 For questions or feedback, open an issue or contact the author.
