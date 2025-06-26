@@ -80,3 +80,31 @@ This beginner-friendly task focused on practical skills using Power BI — no co
 
 > 🚀 “This is my first hands-on Power BI internship project, and I’m excited to keep building!”
 
+# 📊 Power BI Ad Campaign Report – Analysis & Insights
+
+This project presents a comprehensive analysis of a digital advertising campaign using Power BI. The analysis includes visualizations and metrics for impressions, clicks, CTR, CPC, conversions, and ROI.
+
+## 📌 Key Insights
+
+- **CTR & ROI Tracking**: Identified both high-performing and underperforming ads based on Click-Through Rate and Return on Investment.
+- **Demographic Breakdown**: Ad performance segmented by age and gender.
+- **Conversion Funnel Review**: Analyzed weak points in post-click engagement.
+- **Top & Bottom Ads**: Ranked ads based on spend, clicks, and ROI.
+
+## 📈 Recommendations
+
+1. **Optimize Low-Performing Ads**: Update creatives, run A/B tests, and revise copy.
+2. **Refine Targeting**: Focus on high-converting demographics and create lookalike audiences.
+3. **Enhance Conversion Funnel**: Improve landing page UX and reduce friction.
+4. **Smart Budget Allocation**: Reallocate budget to high-ROI ads.
+5. **Real-Time Monitoring**: Use Power BI dashboards for daily performance tracking.
+
+## 📁 File
+
+- `future_ds_02.pdf.pdf`: Power BI export report with detailed charts and recommendations.
+
+## 🛠 Tools Used
+
+- **Power BI Desktop**
+- DAX Metrics
+- Real-Time Dashboards
